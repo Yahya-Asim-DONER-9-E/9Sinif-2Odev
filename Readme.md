@@ -28,7 +28,7 @@ Hocam bu kısmı pek anlamadım o yüzden kendim bir [google sheet](https://docs
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
 **Cevap:**
-Bence x=0 iken y=0 olmamasının nedeni yayın kendi ağırlığının uyguladığı kuvvet bunuda kendi yaptığım grafikten 0.3 olarak buldum yani x=0 iken y=0.3
+Bence x=0 iken y=0 olmamasının nedeni yayın kendi ağırlığının uyguladığı kuvvet bunuda kendi yaptığım grafikten 0.2 olarak buldum yani x=0 iken y=0.2
 
 
 
