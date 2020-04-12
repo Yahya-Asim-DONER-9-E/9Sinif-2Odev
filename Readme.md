@@ -38,16 +38,23 @@ Bence x=0 iken y=0 olmamasının nedeni yayın kendi ağırlığının uyguladı
 **Cevap**: (Soldaki), (Ortadaki), (Sağdaki)
 **Sağdaki**
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
+
+Eğim 1181.81 buldum
+![Eğim](https://user-images.githubusercontent.com/63353356/79078253-b998c600-7d0f-11ea-8a80-6963161b39d5.jpg)
+Videodaki değere pek yakın değil ama yapabildiğim kadarıyla
+
 **Cevap**:
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|          |     |
-|          |     |
-|        |     |
-|        |    |
-|        |     |
+|    1,59      | 0,60    |
+|   3,48       |  2,3   |
+|   6,16     |  3   |
+|  9,95      |  3,75  |
+|   12,35     |  4,3   |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [alın hocam](https://docs.google.com/spreadsheets/d/1_Y7WEOGKrFx_UgAi0r-VhVimwJAdfzwlLIDDm7N2sTo/edit#gid=0).
+
+![Eğim](https://user-images.githubusercontent.com/63353356/79078251-b7366c00-7d0f-11ea-8ffb-75bf816c434a.jpg)
 
