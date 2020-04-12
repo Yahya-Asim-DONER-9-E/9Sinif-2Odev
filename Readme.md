@@ -28,7 +28,7 @@ Hocam bu kısmı pek anlamadım o yüzden kendim bir [google sheet](https://docs
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
 **Cevap:**
-Bence x=0 iken y=0 olmamasının nedeni yayın kendi ağırlığının uyguladığı kuvvet bunuda kendi yaptığım grafikten 0.2 olarak buldum yani x=0 iken y=0.2
+Bence x=0 iken y=0 olmamasının nedeni yayın kendi ağırlığının uyguladığı kuvvet bunuda kendi yaptığım grafikten 0.2 olarak buldum yani x=0 iken y=0.2 ve eğer x = 0 iken y = 0 olursa N/M = 0/0 = tanımsız olacağından ikiside aynı anda 0 olmaz yani orjinden geçmez 
 
 
 
